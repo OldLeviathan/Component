@@ -93,7 +93,7 @@ class Component {
 }
 ```
 
-![image](./public/translated.png)
+![image](./public/translated.jpg)
 
 To show parameters, modifications and events, it was not necessary to create classes that accept data from users and process them.
 
